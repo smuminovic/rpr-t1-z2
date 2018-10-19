@@ -13,7 +13,7 @@ public class Main {
         }
     }
 
-    public class sumaCifara(int a) {
+    public static int sumaCifara(int a) {
         int suma = 0;
         int b = 0;
         while (a != 0) {
